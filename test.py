@@ -1,5 +1,8 @@
+import os
+
 def main():
-    print("Hey")
+    Param = os.environ['PARAM']
+    print(Param)
         
 
 if __name__ == "__main__":
