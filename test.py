@@ -20,7 +20,7 @@ def main():
     # bot.infinity_polling()
 
     while 1:
-        print("test1")
+        print("test2")
         
 
 if __name__ == "__main__":
